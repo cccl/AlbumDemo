@@ -32,7 +32,8 @@ Swift
  selectedPhotos为选中的图片数组
  
  
- 3、开源不易，多多支持
+ 3、开源不易，多多支持！
+ 如有任何问题，请联系1490686428@qq.com
   
   WechatIMG261.jpeg![图片](https://user-images.githubusercontent.com/4113652/236540994-f70fe013-2d36-4873-b9b2-288dcb0181ca.png)
 
