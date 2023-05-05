@@ -1,6 +1,7 @@
 # AlbumDemo
 相册、仿扫描全能王相册效果
 更换UI可直接使用、也可二次开发
+Swift
 
 1、添加权限
          <key>NSPhotoLibraryUsageDescription</key>
@@ -32,7 +33,9 @@
  
  
  3、开源不易，多多支持
- ![图片](https://user-images.githubusercontent.com/4113652/236538034-8cb55cef-9b6a-4ff6-b9d0-68c1b67c7007.png)
+  
+  WechatIMG261.jpeg![图片](https://user-images.githubusercontent.com/4113652/236540994-f70fe013-2d36-4873-b9b2-288dcb0181ca.png)
+
 
  
  
