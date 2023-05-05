@@ -1,7 +1,6 @@
 # AlbumDemo
 相册、仿扫描全能王相册效果
-更换UI可直接使用、也可二次开发
-Swift
+采用Swift开发语言、可换UI使用、可二次开发、
 
 1、添加权限
          <key>NSPhotoLibraryUsageDescription</key>
